@@ -2,23 +2,15 @@
 
 Welcome to String Art!
 
-This is an application that uses the String Art algorithm developed by KThinking.
+This is an application that uses Artistic String algorithm developed by KThinking and this application is also available on store.
 
-Features:
-
-- Record livestream
-- Download tiktok videos no watermark HD, MP3
-- Save and share everything easily (Video, mp3 etc.)
+Features: Monochrome, multicolor and dark mode The application requires access to images for painting
 
 If you choose not to read this entire Privacy Policy, we would like you to review some key points about String Art's privacy practices:
 
-The application allows Find and download tiktok videos no watermark HD, MP3 and save them with 1 click.
+We do not use the images you provide when you use the Application for any reason other than to provide you with the editing functionality of the Application.
 
-Especially Record livestream easily with the time intervals you choose.
-
-We do not use the videos you provide when you use the Application for any reason other than to provide you with the editing functionality of the Application.
-
-We use a third-party cloud service provider — specifically Google Cloud Platform — to process and edit videos.
+We use a third-party cloud service provider — specifically Google Cloud Platform — to process and edit images.
 
 Video is temporarily stored on cloud servers during editing and is encrypted with a key stored locally on your mobile device.
 
